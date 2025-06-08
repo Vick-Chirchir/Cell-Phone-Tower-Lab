@@ -25,41 +25,36 @@ Network Design: <br/>
 <img src="https://i.imgur.com/iUeiBHT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-  <!--
-Phase 1 (ISAKMP) and Phase 2 (IPsec) setup (Router R1):  <br/>
-<img src="https://i.imgur.com/MQ82SLC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+PC0 Static IP with Default Gateway:  <br/>
+<img src="https://i.imgur.com/orGNaGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Interface Config & NAT exemption (Router R1): <br/>
-<img src="https://i.imgur.com/KPePkun.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Interface and Static Route Configuration (Router R1):  <br/>
+<img src="https://i.imgur.com/EgSTRkw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuration of Static routes and NAT overload (Router R1):  <br/>
-<img src="https://i.imgur.com/hgTCMnw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Central-Office Server IP address and Subnet Mask (Server): <br/>
+<img src="https://i.imgur.com/jP7OdJn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuring VPN-ACL and NAT-ACL (Router R1):  <br/>
-<img src="https://i.imgur.com/PHnPeA5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Central-Office Server DHCP Service ON (Server):  <br/>
+<img src="https://i.imgur.com/Ffiyksg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Static Routing and Interface Configuration (ISP Router):  <br/>
-<img src="https://i.imgur.com/PHEvzV4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Cell-Tower 3G/4G Server Range in meters:  <br/>
+<img src="https://i.imgur.com/ESYdS0n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Phase 1 (ISAKMP) and Phase 2 (IPsec) setup (Router R2):  <br/>
-<img src="https://i.imgur.com/zpepP2Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Cell-Tower Attributes:  <br/>
+<img src="https://i.imgur.com/BFh37gV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Interface Config & NAT exemption (Router R2): <br/>
-<img src="https://i.imgur.com/kY4PIJT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Smartphone11 IP Received From Cell-Tower DHCP Server:  <br/>
+<img src="https://i.imgur.com/PXy9ViO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configuration of Static routes and NAT overload (Router R2):  <br/>
-<img src="https://i.imgur.com/QmrJdN1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Configuring VPN-ACL and NAT-ACL (Router R2):  <br/>
-<img src="https://i.imgur.com/vIjn4kF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Smartphone12 IP Received From Cell-Tower DHCP Server: <br/>
+<img src="https://i.imgur.com/NFf1bjb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
@@ -72,6 +67,4 @@ Configuring VPN-ACL and NAT-ACL (Router R2):  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
-Autofill
 
-;
