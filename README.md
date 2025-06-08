@@ -4,9 +4,9 @@
 <!-- ### [Kaltura Capture Recording](https://mediaspace.minnstate.edu/media/Kaltura+Capture+recording+-+April+26th+2025%2C+11%3A11%3A10+pm/1_sp0j5ef9) -->
 
 <h2>Description</h2>
-In this project, I designed and simulated a basic cellular communication network using Cisco Packet Tracer. The lab demonstrates how mobile devices can connect through a cell tower infrastructure to communicate with centralised systems. 
-
-This lab enhanced my understanding of how wireless cellular networks interact with traditional IP networks and how central office infrastructure and routing support end-to-end communication.
+This project demonstrates the use of VLAN Trunking Protocol (VTP) for centralised VLAN management and port security for securing access in a multi-switch network environment using Cisco Packet Tracer. 
+This project successfully simulates: Centralised VLAN deployment using VTP server-client architecture, Improved LAN security using Port Security, Routed communication between two isolated networks via routers.
+It showcases VLAN scalability and access control in enterprise environments using Cisco best practices.
 <br />
 
 
